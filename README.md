@@ -1,52 +1,69 @@
+
 # gm friend, i'm [oscar](https://oscarmac.xyz) 👋
 
 > a software engineer and a true enthusiast of DeFi & DLTs.
 
 ---
 
-### `2024` fyde treasury, fullstack engineer | _AI & DeFi_
+### `2024` [fyde treasury](https://fyde.fi), fullstack engineer | _AI & DeFi_
 
-at [fyde](https://fyde.fi), i led the development and integration of user-facing applications, ensuring smooth interaction with the underlying smart contracts through `wagmi`. my work included maintaining the [liquid vault interface](https://app.fyde.fi), deploying the [liquid restaking application](https://restaking.fyde.fi), and building the alpha version of [fydeX, a trading simulation](https://dev.game.fyde.fi). i also integrated the `base-mainnet` network as well as key authentication workflows with `telegram` and `privy` to enhance communication and user engagement across platforms.
-
----
-
-### `2024` blockswan, fullstack engineer | _freelance management platform_
-
-at [blockswan](https://blockswan.app), i developed an application that allows freelancers to create and manage invoices with their customers. the project involved building a SAAS using `next.js` for the frontend, `prisma` and `postgres` for the backend, and `tailwind` for responsive design.
-
----
-
-### `2023` pimster, fullstack engineer | _audience engagement_
-
-at [pimster](https://pimster.app), i was responsible for feature development from concept to deployment, ensuring a robust full-stack implementation across the platform. my role involved managing `postgresql` migrations and `graphql` backend processes, as well as engineering responsive front-end interfaces for both [consumer](https://focal.pimster.app) and enterprise applications using `next.js`.
+- led the development and integration of user-facing applications
+- ensured smooth interaction with smart contracts using `wagmi`
+- maintained the [liquid vault interface](https://app.fyde.fi)
+- deployed the [liquid restaking application](https://restaking.fyde.fi)
+- built the alpha version of [fydeX, a trading simulation](https://dev.game.fyde.fi)
+- integrated `base-mainnet` network and authentication workflows using `telegram` and `privy`
 
 ---
 
-### `2023` ultra tech alliance, fullstack engineer | _devtooling on ultra network_
+### `2024` [blockswan](https://blockswan.app), fullstack engineer | _freelance management platform_
 
-at [ultra tech alliance](https://github.com/ultra-alliance), i created [ultra-utilities](https://github.com/ultra-alliance/ultra-utilities), a set of development tools used within the [marketplace](https://ultra-alliance.tech), which i also developed. these utilities, including libraries for secure wallet integration and blockchain exploration, have been installed hundreds of times and are used by developers to streamline dApp creation on the `ultra` blockchain.
-
----
-
-### `2022` cosmic exodus, fullstack engineer | _gamefi & tokenomics_
-
-at [cosmic exodus](https://www.cosmicexodus.xyz), i worked on game tokenomics engineering and financial planning, ensuring sustainable economic models within the game. i also played a key role in partner outreach, delivering speeches to investors, and supporting the pre-seed serie. additionally, i developed the [dApp](https://github.com/Oscarmacieira/Cosmic-dApp), utilizing `moralis`, `mongodb`, `ethers.js`, and `react`.
+- developed an application enabling freelancers to manage invoices with customers
+- built the SAAS using `next.js`, `prisma`, `postgres`, and `tailwind`
 
 ---
 
-### `2022` b-family, blockchain engineer | _smart contracts & dApp_
+### `2023` [pimster](https://pimster.app), fullstack engineer | _audience engagement_
 
-at [b-family](https://github.com/BlockSwan/blockswan-protocol), i was responsible for smart contract development using `solidity`, along with testing through `hardhat` and deployment on the `polygon-mumbai network`. i also made the UI/UX design on `figma` and developed the platform, utilizing `next.js`, `mongodb`, `ethers`, and `infura` to create a user-friendly dApp. This project was awarded at the [polygon BUIDLIT 2022 hackathon](https://devpost.com/software/blockswanfamily).
-
----
-
-### `2022` rainbows dao, fullstack engineer | _smart contracts & dApp_
-
-at [rainbows dao](https://blockswan-hq.gitbook.io/rainbows-dao), i updated and deployed evm smart contracts using `hardhat`, while also creating a dApp interface with `react` and `material ui`. i integrated `ethers.js` for contract interactions and built the backend using `moralis` and `mongodb` to manage user data and interactions efficiently.
+- responsible for feature development from concept to deployment
+- managed `postgresql` migrations and `graphql` backend processes
+- engineered responsive front-end interfaces for [consumer](https://focal.pimster.app) and enterprise applications using `next.js`
 
 ---
 
-me, a decentralized dreamer | a love for building cool stuff
+### `2023` [ultra tech alliance](https://github.com/ultra-alliance), fullstack engineer | _devtooling on ultra network_
+
+- created [ultra-utilities](https://github.com/ultra-alliance/ultra-utilities), a set of tools for blockchain development
+- developed the [marketplace](https://ultra-alliance.tech) where these tools are used
+- utilities have been installed hundreds of times by developers to streamline dApp creation on the `ultra` blockchain
+
+---
+
+### `2022` [cosmic exodus](https://cosmicexodus.xyz), fullstack engineer | _gamefi & tokenomics_
+
+- worked on game tokenomics engineering and financial planning
+- played a key role in partner outreach and investor relations during the pre-seed series
+- developed the [dApp](https://github.com/Oscarmacieira/Cosmic-dApp) using `moralis`, `mongodb`, `ethers.js`, and `react`
+
+---
+
+### `2022` [b-family](https://github.com/blockswan/blockswan-protocol), blockchain engineer | _smart contracts & dApp_
+
+- developed smart contracts using `solidity`, tested with `hardhat`, and deployed on `polygon-mumbai`
+- designed UI/UX on `figma` and built the platform using `next.js`, `mongodb`, `ethers`, and `infura`
+- awarded at the [polygon BUIDLIT 2022 hackathon](https://devpost.com/software/blockswanfamily)
+
+---
+
+### `2022` [rainbows dao](https://blockswan-hq.gitbook.io/rainbows-dao/), fullstack engineer | _smart contracts & dApp_
+
+- deployed and updated evm smart contracts with `hardhat`
+- created a dApp interface using `react` and `material ui`
+- integrated contract interactions using `ethers.js` and built the backend with `moralis` and `mongodb`
+
+---
+
+### me, a decentralized dreamer | a love for building cool stuff
 
 i craft bugs with equal mastery across the frontend and the blockchain/backend, delivering a complete experience to end users. currently between paris and lisbon. originally from a world where football and video games reign supreme.
 
