@@ -14,12 +14,12 @@
 
 - [fyde treasury](https://app.fyde.fi) - AI rebalanced and liquidity optimised vaults
 - [pimster](https://focal.pimster.app) - engage your audience effortlessly
-- [cosmic exodus](https://github.com/Oscarmacieira/Cosmic-dApp/blob/main/src/hooks/useAddress.ts) - an immersive strategy gamefi experience
 - [blockswan](https://blockswan.app) - your freelancer operating system
 - [b-family](https://github.com/BlockSwan/blockswan-protocol) - digital services marketplace (awarded at polygon buidlit 2022 hackathon)
 - [ultra utilities](https://github.com/ultra-alliance/ultra-utilities) - tools for devolpment on the ultra blockchain
 - [rainbows dao](https://blockswan-hq.gitbook.io/rainbows-dao) - because technology can rhythm with virtuosity
-- [AI NPC](https://github.com/AI-NPC) - makes it easy to create compelling and dynamic non-player characters 
+- [AI NPC](https://github.com/AI-NPC) - makes it easy to create compelling and dynamic non-player characters
+- [cosmic exodus](https://github.com/Oscarmacieira/Cosmic-dApp/blob/main/src/hooks/useAddress.ts) - an immersive strategy gamefi experience
 
 ## skills matrix
 
