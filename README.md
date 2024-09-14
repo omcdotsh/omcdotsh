@@ -1,4 +1,4 @@
-# gm friend, i'm [oscar](https://oscarmac.xyz) 👋
+# gm friend, i'm [oscar](https://oscarmac.xyz)
 
 [![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg)]([https://behance.net/oscardzn](https://linkedin.com/in/https://fr.linkedin.com/OMacieira)) [![X](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/twitter.svg)](https://x.com/OMacieira)
 
