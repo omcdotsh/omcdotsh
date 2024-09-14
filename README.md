@@ -2,31 +2,34 @@
 
 🦢 fullstack developer | DeFi & DLT enthusiast
 
-## Contribution
+## contribution
 
-- [Fyde Treasury](https://app.fyde.fi) - AI rebalanced and liquidity optimised vaults
-- [Pimster](https://focal.pimster.app) - engage your audience effortlessly
-- [Cosmic Exodus](https://github.com/Oscarmacieira/Cosmic-dApp/blob/main/src/hooks/useAddress.ts) - an immersive strategy GameFi experience
+- [fyde treasury](https://app.fyde.fi) - AI rebalanced and liquidity optimised vaults
+- [pimster](https://focal.pimster.app) - engage your audience effortlessly
+- [cosmic exodus](https://github.com/Oscarmacieira/Cosmic-dApp/blob/main/src/hooks/useAddress.ts) - an immersive strategy GameFi experience
 
-## Projects
+## projects
 
-- [BlockSwan Protocol](https://github.com/BlockSwan/blockswan-protocol) - digital services marketplace
-- [Ultra Utilities](https://github.com/ultra-alliance/ultra-utilities) - tools for Ultra blockchain development
-- [Rainbows DAO](https://blockswan-hq.gitbook.io/rainbows-dao) - because technology can rhythm with virtuosity
+- [blockswan](https://blockswan.app) - your freelancer operating system
+- [b-family](https://github.com/BlockSwan/blockswan-protocol) - digital services marketplace (awarded at polygon buidlit 2022 hackathon)
+- [ultra Utilities](https://github.com/ultra-alliance/ultra-utilities) - tools for devolpment on the ultra blockchain
+- [rainbows dao](https://blockswan-hq.gitbook.io/rainbows-dao) - because technology can rhythm with virtuosity
+- [AI NPC](https://github.com/AI-NPC) - makes it easy to create compelling and dynamic non-player characters 
 
 
-## Connect
+## connect
 
-- [Website](https://oscarmac.xyz)
-- [Twitter](https://twitter.com/OMacieira)
-- [LinkedIn](https://linkedin.com/in/oscarmacieira)
+- [website](https://oscarmac.xyz)
+- [twitter](https://twitter.com/OMacieira)
+- [linkedIn](https://linkedin.com/in/oscarmacieira)
 
-## Skills
+## skills
 
 `TypeScript` `JavaScript` `React` `Node.js` `Blockchain` `DeFi` `Smart Contracts`
 
-## About
+## about
 
-Passionate about decentralized technologies and their potential to reshape digital landscapes. Building innovative solutions in the DeFi space and contributing to the evolution of blockchain ecosystems.
+- passionate about decentralized technologies and their potential to reshape digital landscapes.
+- building innovative solutions in the DeFi space and contributing to the evolution of blockchain ecosystems.
 
-[Get in touch](https://resources.blockswan.app)
+[> get in touch](https://oscarmac.xyz/contact)
