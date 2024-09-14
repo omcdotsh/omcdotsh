@@ -22,7 +22,7 @@ at [pimster](https://pimster.app), i was responsible for feature development fro
 
 ---
 
-### `2023` ultra tech alliance, blockchain engineer | _developer tooling on the ultra network_
+### `2023` ultra tech alliance, blockchain engineer | _devtooling on ultra network_
 
 at [ultra tech alliance](https://github.com/ultra-alliance), i created [ultra-utilities](https://github.com/ultra-alliance/ultra-utilities), a set of development tools used within the [marketplace](https://ultra-alliance.tech), which i also developed. these utilities, including libraries for secure wallet integration and blockchain exploration, have been installed hundreds of times and are used by developers to streamline dApp creation on the `ultra` blockchain.
 
