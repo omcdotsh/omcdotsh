@@ -46,12 +46,19 @@ at [rainbows dao](https://blockswan-hq.gitbook.io/rainbows-dao), i updated and d
 
 ---
 
-me, a decentralized dreamer | A love for building cool stuff
-i craft bugs with equal mastery across the frontend and the blockchain/backend, delivering a complete experience to end users.
-currently between paris and lisbon. originally from a world where football and video games reign supreme.
+me, a decentralized dreamer | a love for building cool stuff
+
+i craft bugs with equal mastery across the frontend and the blockchain/backend, delivering a complete experience to end users. currently between paris and lisbon. originally from a world where football and video games reign supreme.
 
 ---
 
 - [[in]](https://fr.linkedin.com/OMacieira) boss me on linkedin
 - [[X]](https://x.com/OMacieira) retweet me on x
 - [[be]](https://behance.net/oscardz) admire my high school arts on behance
+
+---
+
+### Quote
+
+> "Great things are not done by impulse, but by a series of small things brought together."
+> — **Vincent Van Gogh**
