@@ -82,7 +82,7 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 
 ---
 
-- [[in]](https://fr.linkedin.com/OMacieira) boss me on linkedin
+- [[in]](https://www.linkedin.com/in/oscarmacieira) boss me on linkedin
 - [[X]](https://x.com/OMacieira) retweet me on x
 - [[be]](https://www.behance.net/OscarDzn) admire my high school arts on behance
 
