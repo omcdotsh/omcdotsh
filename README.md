@@ -5,7 +5,7 @@
 
 ---
 
-### `2024` [fyde treasury](https://fyde.fi), fullstack engineer | _AI & DeFi_
+### `2024` [fyde labs](https://fyde.fi), fullstack engineer | _AI & DeFi_
 
 - led the development and integration of user-facing applications
 - ensured smooth interaction with smart contracts using `wagmi`
