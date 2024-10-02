@@ -1,5 +1,5 @@
 
-# gm friend, i'm [oscar](https://oscarmac.xyz) 👋
+# gm friend, i'm [oscar](https://omc.sh) 👋
 
 > a software engineer and a true enthusiast of DeFi & DLTs.
 
