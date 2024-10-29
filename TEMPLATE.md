@@ -93,7 +93,7 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 > "Great things are not done by impulse, but by a series of small things brought together."
 > — **Vincent Van Gogh**
 
-## Visitor count
+### Visitor count
 
 <img src="https://profile-counter.glitch.me/oscarmacieira/count.svg" />
 
