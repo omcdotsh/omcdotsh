@@ -1,0 +1,12 @@
+{
+  "name": "oscarmacieira",
+  "version": "1.0.0",
+  "description": "web3 engineer",
+  "main": "index.js",
+  "repository": "git@github.com:Oscarmacieira/oscarmacieira.git",
+  "author": "Oscarmacieira <macieiraoscar@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.13.0"
+  }
+}
