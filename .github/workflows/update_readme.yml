@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # “At 4:20 on every day-of-week from Monday through Friday.”
+    # "At 4:20 on every day-of-week from Monday through Friday."
     - cron: "20 4 * * *"
 
 jobs:
@@ -14,17 +14,21 @@ jobs:
       matrix:
         node-version: [14.x]
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+
       - name: Update README.md file
         run: |
           node index.js > README.md
         env:
           CI: true
-      - name: commit changes
+
+      - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
           author_name: Oscarmacieira
@@ -33,5 +37,4 @@ jobs:
           signoff: false
           message: "memo: README.md updated by Gabot"
         env:
-          # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
