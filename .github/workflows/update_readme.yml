@@ -38,3 +38,7 @@ jobs:
           message: "memo: README.md updated by Gabot"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stop workflow
+        if: always()
+        run: exit 0
