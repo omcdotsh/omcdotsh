@@ -10,7 +10,7 @@
 - maintained, optimized and added new protocol related features using `wagmi` and `viem` on the [liquid vault interface](https://app.fyde.fi) and [liquid restaking application](https://restaking.fyde.fi), successfully supporting traffic spikes exceeding 1000% during the token generation event (TGE) and handling 50,000+ monthly visits
 - developed [fydeX](https://game.fyde.fi), a bullrun trading simulation game, resulting in 300+ blockchain smart accounts created through a seamless web3 authentication system and cumulating 5,000+ games launched
 
-`typescript`, `react`, `next.js`, `graphql`, `postgresql`, `aws`, `wagmi`, `viem`, `privy`, `rainbowkit`, `telegram api`, `evm networks`, `authentication workflows`
+`typescript` `react` `next.js` `graphql` `postgresql` `aws` `wagmi` `viem` `privy` `rainbowkit` `telegram api` `evm networks` `authentication workflows`
 
 ---
 
@@ -21,7 +21,7 @@
 - contributed to `graphql` components, a custom `strapi` plugin, and a `nestjs` api for efficient data handling
 - developed and optimized features for [consumer](https://focal.pimster.app) and enterprise applications using `next.js`, ensuring scalability and high user engagement within a collaborative team environment
 
-`typescript`, `react`, `next.js`, `nest.js`, `strapi`, `postgresql`, `graphql`, `aws`, `database migration`, `responsive design`, `enterprise application development`
+`typescript` `react` `next.js` `nest.js` `strapi` `postgresql` `graphql` `aws` `database migration` `responsive design` `enterprise application development`
 
 ---
 
@@ -31,7 +31,7 @@
 - developed an [nft marketplace](https://ultra-alliance.tech) utilizing these tools, ensuring a consistent and user-friendly experience
 - reached 200 weekly downloads on npm, driving engagement and adoption in the developer community
 
-`typescript`, `react`, `lerna`, `ultra wallet`, `c++`, `eosjs`, `npm packages`, `blockchain development`, `marketplace development`
+`typescript` `react` `lerna` `ultra wallet` `c++` `eosjs` `npm packages` `blockchain development` `marketplace development`
 
 ---
 
@@ -41,7 +41,7 @@
 - developed core [dapp](https://github.com/Oscarmacieira/Cosmic-dApp) frontend features for the decentralized exchange (dex) using `moralis v1`, `react` and `ethers.js`.
 - played a key role in partner outreach and investor relations during the pre-seed phase, contributing to a successful $70k raise
 
-`tokenomics`, `financial planning`, `investor relations`, `dapp development`, `react`, `mongodb`, `express`, `typescript`, `moralis`, `wagmi`
+`tokenomics` `financial planning` `investor relations` `dapp development` `react` `mongodb` `express` `typescript` `moralis` `wagmi`
 
 ---
 
@@ -51,7 +51,7 @@
 - built a SaaS platform with improved SEO at [blockswan.app](https://blockswan.app), boosting traffic by 60%, achieving 50+ monthly users, and generating $84 MRR
 - designed, tested with `hardhat` and `foundry`, and deployed smart contracts for a [digital services marketplace](https://github.com/BlockSwan/blockswan-protocol), securing a top 3 placement out of 3,388 projects in the [polygon BUIDL IT hackathon](https://devpost.com/software/blockswanfamily) with a $5k USDC cash prize and $5k USDC grant
 
-`nodejs`, `express`, `ipfs`, `solidity`, `hardhat`, `foundry`, `react`, `ui/ux design`, `marketing`, `platform architecture`, `smart contract implementation`
+`nodejs` `express` `ipfs` `solidity` `hardhat` `foundry` `react` `ui/ux design` `marketing` `platform architecture` `smart contract implementation`
 
 ---
 
@@ -61,7 +61,7 @@
 - developed the dapp interface and backend system with `moralis v1`, creating a cohesive user experience and enabling seamless blockchain interactions
 - delivered a fully functional mvp, integrating `react` frontend and `mongodb` backend components to accelerate product testing and feedback
 
-`smart contract development`, `dapp development`, `dao infrastructure`, `react`, `mongodb`, `express`, `typescript`, `moralis`, `wagmi`
+`smart contract development` `dapp development` `dao infrastructure` `react` `mongodb` `express` `typescript` `moralis` `wagmi`
 
 ---
 
