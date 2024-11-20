@@ -100,4 +100,4 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 
 <img src="https://profile-counter.glitch.me/oscarmacieira/count.svg" />
 
-last updated on tue nov 19 2024
+last updated on wed nov 20 2024
