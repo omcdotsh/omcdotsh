@@ -4,6 +4,14 @@
 
 ---
 
+### `2025` [morpho labs](https://morpho.org), | _DeFi - Lending & Borrowing_
+
+- built and shipped cross-protocol migration feature using Morpho Bundler v3, enabling users to import positions from Aave v2/v3 and Compound v2/v3 into Morpho
+- developed refinancing functionality allowing users to seamlessly move borrow positions between Morpho markets to optimize rates and collateral usage
+- implemented referral SDKs, full simulation support, and a hybrid SSR/onchain data-fetching layer to ensure accurate, real-time user interfaces across the app
+
+`typescript` `react` `next.js` `graphql` `wagmi` `viem` `blue-sdk` `blue-sdk-viem` `blue-sdk-wagmi` `simulation-sdk` `bundler-sdk-viem` `ssr` `fuul sdk` `emotion` `reown`
+
 ### `2024` [fyde labs](https://fyde.fi), fullstack engineer | _AI & DeFi_
 
 - led the development of user-facing applications interacting with smart contracts, reducing bundle size by over 40% and improving CLS by 25%, enhancing visual stability and user experience
