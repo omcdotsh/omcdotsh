@@ -4,7 +4,7 @@
 
 ---
 
-### `2025` [morpho labs](https://morpho.org), | _DeFi - Lending & Borrowing_
+### `2025` [morpho labs](https://morpho.org), product engineer | _DeFi - Lending & Borrowing_
 
 - built and shipped cross-protocol migration feature using Morpho Bundler v3, enabling users to import positions from Aave v2/v3 and Compound v2/v3 into Morpho
 - developed refinancing functionality allowing users to seamlessly move borrow positions between Morpho markets to optimize rates and collateral usage
