@@ -46,7 +46,7 @@
 ### `2022` [cosmic exodus](https://cosmicexodus.xyz), fullstack engineer | _gamefi & tokenomics_
 
 - led tokenomics engineering and financial planning for project viability and sustainability, aligning economic incentives with user engagement
-- developed core [dapp](https://github.com/Oscarmacieira/Cosmic-dApp) frontend features for the decentralized exchange (dex) using `moralis v1`, `react` and `ethers.js`.
+- developed core [dapp](https://github.com/omcdotsh/Cosmic-dApp) frontend features for the decentralized exchange (dex) using `moralis v1`, `react` and `ethers.js`.
 - played a key role in partner outreach and investor relations during the pre-seed phase, contributing to a successful $70k raise
 
 `tokenomics` `financial planning` `investor relations` `dapp development` `react` `mongodb` `express` `typescript` `moralis` `wagmi`
