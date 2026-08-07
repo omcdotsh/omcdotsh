@@ -4,15 +4,24 @@
 
 ---
 
-### `2025` [morpho labs](https://morpho.org), product engineer | _DeFi - Lending & Borrowing_
+### `2025` [neutrl](https://neutrl.finance), lead engineer | _synthetic dollar backed by hedged OTC positions_
 
-- built and shipped cross-protocol migration feature using Morpho Bundler v3, enabling users to import positions from Aave v2/v3 and Compound v2/v3 into Morpho
-- developed refinancing functionality allowing users to seamlessly move borrow positions between Morpho markets to optimize rates and collateral usage
-- implemented referral SDKs, full simulation support, and a hybrid SSR/onchain data-fetching layer to ensure accurate, real-time user interfaces across the app
+- led architecture and delivery of a DeFi protocol that reached $230M peak TVL, contributing across solidity, backend, data infrastructure and frontend while owning protocol integrations and product architecture
+- designed and shipped core protocol features including structured products, staking, lock commitments, points, referrals, reward distribution and merkle claims
+- built and maintained the protocol stack spanning smart contract integrations, indexers, graphql apis, analytics pipelines, sdks and frontend apps for real-time portfolio tracking and incentive calculations
+
+`solidity` `foundry` `typescript` `react` `next.js` `graphql` `envio` `ponder` `nest.js` `postgresql` `wagmi` `viem` `aws` `docker`
+
+### `2024-2025` [morpho labs](https://morpho.org), software engineer | _DeFi - Lending & Borrowing_
+
+- shipped major components of Morpho App V2, building lending, borrowing and position-management infrastructure used to onboard and migrate capital across DeFi protocols
+- built and launched cross-protocol migration flows using Morpho Bundler v3, enabling seamless migration of lending and borrowing positions from Aave v2/v3 and Compound v2/v3 into Morpho
+- developed refinancing workflows allowing users to efficiently rebalance debt positions across Morpho markets, optimizing borrowing costs and collateral utilization
+- implemented transaction simulations, referral infrastructure and a hybrid SSR/onchain data-fetching layer for reliable real-time portfolio visualization and execution previews
 
 `typescript` `react` `next.js` `graphql` `wagmi` `viem` `blue-sdk` `blue-sdk-viem` `blue-sdk-wagmi` `simulation-sdk` `bundler-sdk-viem` `ssr` `fuul sdk` `emotion` `reown`
 
-### `2024` [fyde labs](https://fyde.fi), fullstack engineer | _AI & DeFi_
+### `2024` [fyde labs](https://fyde.fi), fullstack engineer | _liquid on-chain vault_
 
 - led the development of user-facing applications interacting with smart contracts, reducing bundle size by over 40% and improving CLS by 25%, enhancing visual stability and user experience
 - maintained, optimized and added new protocol related features using `wagmi` and `viem` on the [liquid vault interface](https://app.fyde.fi) and [liquid restaking application](https://restaking.fyde.fi), successfully supporting traffic spikes exceeding 1000% during the token generation event (TGE) and handling 50,000+ monthly visits
@@ -22,7 +31,7 @@
 
 ---
 
-### `2023` [pimster](https://pimster.app), fullstack engineer | _audience engagement_
+### `2023` [pimster](https://pimster.app), fullstack engineer | _post-purchase engagement_
 
 - led full-stack development from concept to deployment as part of a team, implementing a customer onboarding flow that increased account creation rates and improved user experience
 - collaborated on engineering `postgresql` migration processes to enhance frontend functionality, boosting crm team productivity by 70%
@@ -104,8 +113,4 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 > "Great things are not done by impulse, but by a series of small things brought together."
 > — **Vincent Van Gogh**
 
-### Visitor count
-
-<img src="https://profile-counter.deno.dev/omcdotsh/count.svg" />
-
-last updated on sun jul 13 2025
+last updated on fri aug 07 2026
