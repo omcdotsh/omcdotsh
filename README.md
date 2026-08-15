@@ -113,4 +113,4 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 > "Great things are not done by impulse, but by a series of small things brought together."
 > — **Vincent Van Gogh**
 
-last updated on fri aug 14 2026
+last updated on sat aug 15 2026
