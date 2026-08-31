@@ -4,14 +4,14 @@
 
 ---
 
-`2025-2026` **neutrl**
-`2024-2025` **morpho**
-`2024` **fyde**
-`2023` **pimster**
-`2023` **ultra tech alliance**
-`2022` **cosmic exodus**
-`2022` **blockswan**
-`2022` **rainbows dao**
+**2025-2026** &mdash; neutrl  
+**2024-2025** &mdash; morpho  
+**2024** &mdash; fyde  
+**2023** &mdash; pimster  
+**2023** &mdash; ultra tech alliance  
+**2022** &mdash; cosmic exodus  
+**2022** &mdash; blockswan  
+**2022** &mdash; rainbows dao
 
 ---
 
