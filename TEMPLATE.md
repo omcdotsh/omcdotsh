@@ -15,7 +15,7 @@
 
 ---
 
-### `2024-2025` [morpho](https://morpho.org), product engineer | _DeFi - Lending & Borrowing_
+### `2024-2025` [morpho](https://morpho.org), product engineer | _lending & borrowing_
 
 - built position migration and refinancing flows connecting aave, compound, and morpho, using bundler v3 to compose transaction execution and simulation to preview outcomes before signing
 - shipped lending, borrowing, and position management flows in react and next.js, integrating onchain data with transaction interactions
