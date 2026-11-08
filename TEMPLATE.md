@@ -50,44 +50,41 @@
 
 ---
 
-### `2023` [ultra tech alliance](https://github.com/Ultra-Tech-Alliance), fullstack engineer | _devtooling on ultra network_
+### `2014-now` [omc](https://omc.sh), independent software engineer | _building cool stuff on the internet_
+
+independent practice established in 2014, initially focused on digital design before expanding into full-stack software engineering, developer tooling, and end-to-end product development.
+
+**selected engagements**
+
+**`2023` [ultra tech alliance](https://github.com/Ultra-Tech-Alliance), fullstack engineer**
 
 - built and published an [open-source javascript client](https://github.com/Ultra-Tech-Alliance/ultra-utilities), react sdk, and ui component library for the ultra blockchain, providing reusable foundations for application developers
-- built an [nft marketplace](https://github.com/Ultra-Tech-Alliance/interface) using the sdk and component library, connecting blockchain interactions to a complete consumer application
-- wrote integration documentation for the published packages, which reached 200+ weekly npm downloads
+- used these packages to build an [nft marketplace](https://github.com/Ultra-Tech-Alliance/interface) with end-to-end blockchain interactions, and authored integration documentation for packages reaching 200+ weekly npm downloads
 
 `typescript` `react` `sdk` `npm packages`
 
----
+**`2022` [cosmic exodus](https://cosmicexodus.xyz), fullstack engineer**
 
-### `2022` [cosmic exodus](https://cosmicexodus.xyz), fullstack engineer | _gamefi & tokenomics_
-
-- built decentralized-exchange interfaces with react, ethers.js, and moralis, connecting the frontend to blockchain data and smart contracts
-- developed the project's tokenomics and financial planning, defining its token model and funding requirements
-- supported investor relations and partner outreach during a $70k pre-seed raise
+- built decentralized exchange interfaces with react, ethers.js, and moralis, integrating blockchain data and smart contracts
+- defined the project's tokenomics, token model, and funding requirements through financial planning, while supporting investor relations and partner outreach during a $70k pre-seed raise
 
 `react` `ethers.js` `moralis` `tokenomics`
 
----
+**`2021-2022` [rainbows](https://blockswan-hq.gitbook.io/rainbows-dao/), fullstack engineer**
 
-### `2022` [blockswan](https://github.com/blockswan/blockswan-protocol), blockchain engineer | _smart contracts & dApp_
-
-- independently built a decentralized services marketplace prototype across solidity contracts, a next.js frontend, and an express api backed by mongodb, including design-system components, transaction flows, and database migrations
-- designed, tested, and deployed contracts for orders, disputes, juries, and reputation, connecting buyer, seller, and judge workflows
-- integrated usdc payments on polygon, transaction forwarding, social and wallet sign-in, and ipfs file storage
-- earned top 3 among 3,388 projects at the [polygon BUIDL IT hackathon](https://devpost.com/software/blockswanfamily) for the marketplace prototype, receiving a $5k prize and a $5k grant
-
-`solidity` `next.js` `express` `mongodb` `polygon` `ipfs`
-
----
-
-### `2022` [rainbows dao](https://blockswan-hq.gitbook.io/rainbows-dao/), fullstack engineer | _smart contracts & dApp_
-
-- updated and deployed smart contracts on `polygon`, ensuring secure and efficient interactions for the mvp with `etherjs`
-- developed the dapp interface and backend system with `moralis v1`, creating a cohesive user experience and enabling seamless blockchain interactions
-- delivered a fully functional mvp, integrating `react` frontend and `mongodb` backend components to accelerate product testing and feedback
+- updated and deployed smart contracts on polygon, integrating them with ethers.js to support secure and efficient mvp interactions
+- built the dapp interface and backend using react, moralis v1, and mongodb, delivering a fully functional mvp for product testing and feedback
 
 `smart contract development` `dapp development` `dao infrastructure` `react` `mongodb` `express` `typescript` `moralis` `wagmi`
+
+**`2021-2022` [blockswan](https://github.com/blockswan/blockswan-protocol), blockchain engineer**
+
+- independently built a decentralized services marketplace prototype using solidity, next.js, express, and mongodb, including design-system components, transaction flows, and database migrations
+- designed, tested, and deployed smart contracts for orders, disputes, juries, and reputation, connecting buyer, seller, and judge workflows
+- integrated usdc payments on polygon, transaction forwarding, social and wallet authentication, and ipfs storage
+- ranked top 3 among 3,388 projects at the [polygon BUIDL IT hackathon](https://devpost.com/software/blockswanfamily), earning a $5k prize and a $5k grant
+
+`solidity` `next.js` `express` `mongodb` `polygon` `ipfs`
 
 ---
 
