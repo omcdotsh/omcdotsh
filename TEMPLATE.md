@@ -13,13 +13,17 @@
 
 `typescript` `react` `next.js` `nodejs` `solidity` `sdk` `indexer` `wagmi` `viem`
 
-### `2024-2025` [morpho labs](https://morpho.org), product engineer | _DeFi - Lending & Borrowing_
+---
+
+### `2024-2025` [morpho](https://morpho.org), product engineer | _DeFi - Lending & Borrowing_
 
 - built position migration and refinancing flows connecting aave, compound, and morpho, using bundler v3 to compose transaction execution and simulation to preview outcomes before signing
 - shipped lending, borrowing, and position management flows in react and next.js, integrating onchain data with transaction interactions
 - combined server-rendered portfolio data with live onchain reads to make positions available on initial render and keep balances current
 
 `typescript` `react` `next.js` `wagmi` `viem` `bundler` `ssr`
+
+---
 
 ### `2024` [fyde treasury](https://fyde.fi), product engineer | _onchain treasury_
 
@@ -41,10 +45,10 @@
 
 ---
 
-### `2023` [ultra tech alliance](https://github.com/ultra-alliance), fullstack engineer | _devtooling on ultra network_
+### `2023` [ultra tech alliance](https://github.com/Ultra-Tech-Alliance), fullstack engineer | _devtooling on ultra network_
 
-- built and published an open-source javascript client, react sdk, and ui component library for the ultra blockchain, providing reusable foundations for application developers
-- built an [nft marketplace](https://ultra-alliance.tech) using the sdk and component library, applying the developer tooling to a complete consumer application
+- built and published an [open-source javascript client](https://github.com/Ultra-Tech-Alliance/ultra-utilities), react sdk, and ui component library for the ultra blockchain, providing reusable foundations for application developers
+- built an [nft marketplace](https://github.com/Ultra-Tech-Alliance/interface) using the sdk and component library, applying the developer tooling to a complete consumer application
 - authored integration documentation for the published packages, which reached 200 weekly npm downloads
 
 `typescript` `react` `sdk` `npm packages`
@@ -86,14 +90,14 @@ SELECT date, activity FROM oscar
 WHERE date<'2022-01-11' ORDER BY date DESC
 ```
 
-- 2022 passed entry exam for school 42
-- 2021 software tester at flink — tested a supply chain forecasting application against representative datasets and edge cases; prepared test data, executed forecasting scenarios, and documented defects with reproducible steps
-- 2021 content operator spain at mano-mano — reviewed and localized spanish product listings; extracted and standardized product data against marketplace content requirements
-- 2021 one year in economics & management at ESCP
-- 2020 platform officer at henri wartner group — built and launched an e-commerce storefront for a new mask manufacturing and distribution business during covid-19; researched demand and competitor pricing, and developed the brand identity
-- 2017, 2019 two years in business & organisational sciences at dauphine-uc3m
-- tbwa\groupe — assistant project manager: analyzed competitor strategies and market trends; structured brand messaging and positioning frameworks
-- jésus et gabriel — assistant graphic designer: produced visual assets for client campaigns across marketing and communication materials
+- **2022** passed entry exam for school _42_
+- **2021** software tester at _flink_ — tested a supply chain forecasting application against representative datasets and edge cases; prepared test data, executed forecasting scenarios, and documented defects with reproducible steps
+- **2021** content operator spain at _mano-mano_ — reviewed and localized spanish product listings; extracted and standardized product data against marketplace content requirements
+- **2021** one year in economics & management at _ESCP_
+- **2020** platform officer at _henri wartner group_ — built and launched an e-commerce storefront for a new mask manufacturing and distribution business during covid-19; researched demand and competitor pricing, and developed the brand identity
+- **2017, 2019** two years in business & organisational sciences at _dauphine-uc3m_
+- _tbwa\groupe_ — assistant project manager: analyzed competitor strategies and market trends; structured brand messaging and positioning frameworks
+- _jésus et gabriel_ — assistant graphic designer: produced visual assets for client campaigns across marketing and communication materials
 
 ---
 
