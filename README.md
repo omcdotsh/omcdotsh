@@ -13,8 +13,6 @@
 
 `typescript` `react` `next.js` `nodejs` `solidity` `sdk` `indexer` `wagmi` `viem`
 
----
-
 ### `2024-2025` [morpho labs](https://morpho.org), product engineer | _DeFi - Lending & Borrowing_
 
 - built position migration and refinancing flows connecting aave, compound, and morpho, using bundler v3 to compose transaction execution and simulation to preview outcomes before signing
@@ -22,8 +20,6 @@
 - combined server-rendered portfolio data with live onchain reads to make positions available on initial render and keep balances current
 
 `typescript` `react` `next.js` `wagmi` `viem` `bundler` `ssr`
-
----
 
 ### `2024` [fyde treasury](https://fyde.fi), product engineer | _onchain treasury_
 
