@@ -4,7 +4,7 @@
 
 ---
 
-### `2025-2026` [neutrl](https://neutrl.finance), lead software engineer | _yield-bearing synthetic dollar_
+### `2025-2026` [neutrl](https://neutrl.finance), lead software engineer | _yield-bearing synthetic dollar_ · [case study](https://omc.sh/work/neutrl)
 
 - built the protocol's application stack from zero: next.js web app, node.js apis, typescript sdks, and blockchain indexer
 - led everything offchain for a protocol that reached $230M peak TVL and about 25,000+ monthly visitors
@@ -17,7 +17,7 @@
 
 ---
 
-### `2024-2025` [morpho](https://morpho.org), product engineer | _lending & borrowing_
+### `2024-2025` [morpho](https://morpho.org), product engineer | _lending & borrowing_ · [case study](https://omc.sh/work/morpho)
 
 - built refinance, migrate-earn, and migrate-borrow flows connecting aave, compound, and morpho, using bundler v3 to compose transactions and preview execution outcomes before signing
 - shipped lending, borrowing, and position-management interfaces, including position dashboards and history, transaction interactions, wallet-based filtering, and expected reward pricing in displayed apy
@@ -28,7 +28,7 @@
 
 ---
 
-### `2024` [fyde treasury](https://fyde.fi), product engineer | _onchain treasury_
+### `2024` [fyde treasury](https://fyde.fi), product engineer | _onchain treasury_ · [case study](https://omc.sh/work/fyde)
 
 - built fyde's protocol application as its only frontend engineer, owning staking, rewards, portfolio deposit and withdrawal previews, and governance interfaces for a product that reached about $1.7M peak TVL
 - built wallet connectivity and account abstraction with wagmi, viem, and privy, supporting 300+ smart accounts
@@ -40,7 +40,7 @@
 
 ---
 
-### `2023` [pimster](https://pimster.app), fullstack engineer | _post-purchase engagement_
+### `2023` [pimster](https://pimster.app), fullstack engineer | _post-purchase engagement_ · [case study](https://omc.sh/work/pimster)
 
 - delivered onboarding, content management, and customer engagement features across next.js, graphql, nestjs, and strapi for 14+ customer brands, building mobile product companions with setup guidance, manuals, support, and branded stories
 - built internal crm tools to duplicate and move content across companies and products, cutting product-minisite preparation from about half a day to under 30 minutes; sales reported the work became about 3 times faster
@@ -50,9 +50,9 @@
 
 ---
 
-### `2014-now` [omc](https://omc.sh), independent design & software engineering | _building cool stuff on the internet_
+### `2014-now` [omc](https://omc.sh/about), independent design & software engineering | _building cool stuff on the internet_
 
-independent practice established in 2014, starting with brand and identity design before expanding into full-stack software engineering, developer tooling, and end-to-end product development.
+independent practice established in 2014, starting with brand and identity design before expanding into full-stack software engineering, developer tooling, and end-to-end product development. see the [services](https://omc.sh/services) i offer, or [get in touch](https://omc.sh/contact).
 
 **selected engagements**
 
@@ -63,21 +63,21 @@ independent practice established in 2014, starting with brand and identity desig
 
 `typescript` `react` `sdk` `npm packages`
 
-**`2022` [cosmic exodus](https://cosmicexodus.xyz), fullstack engineer**
+**`2022` [cosmic exodus](https://omc.sh/work/cosmic), fullstack engineer**
 
 - built decentralized exchange interfaces with react, ethers.js, and moralis, integrating blockchain data and smart contracts
 - developed the project's tokenomics and financial plans supporting a $70k pre-seed raise
 
 `react` `ethers.js` `moralis` `tokenomics`
 
-**`2021-2022` [rainbows](https://blockswan-hq.gitbook.io/rainbows-dao/), fullstack engineer**
+**`2021-2022` [rainbows](https://omc.sh/work/rainbows), fullstack engineer**
 
 - updated and deployed smart contracts on polygon testnet, integrating them with ethers.js to support secure and efficient mvp interactions
 - built the dapp interface and backend using react, moralis v1, and mongodb, delivering a fully functional mvp for product testing and feedback
 
 `smart contract development` `dapp development` `dao infrastructure` `react` `mongodb` `express` `typescript` `moralis` `wagmi`
 
-**`2021-2022` [blockswan](https://github.com/blockswan/blockswan-protocol), blockchain engineer**
+**`2021-2022` [blockswan](https://omc.sh/work/blockswan), blockchain engineer** · [source](https://github.com/blockswan/blockswan-protocol)
 
 - built a decentralized services marketplace prototype using solidity, next.js, express, and mongodb, including design-system components, transaction flows, and database migrations
 - designed, tested, and deployed smart contracts for orders, disputes, juries, and reputation, connecting buyer, seller, and judge workflows
@@ -86,11 +86,11 @@ independent practice established in 2014, starting with brand and identity desig
 
 `solidity` `next.js` `express` `mongodb` `polygon` `ipfs`
 
-**`2014-2021` oscar design, brand & identity designer**
+**`2014-2021` [oscar design](https://www.behance.net/OscarDzn), brand & identity designer**
 
-- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients
+- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients, from [logo folio 1](https://www.behance.net/gallery/17354603/Logo-Folio-1) and [logo folio 2](https://www.behance.net/gallery/23885671/Logo-Folio-2) to the [nativ gaming mascot](https://www.behance.net/gallery/28669441/Nativ-Gaming-mascot-logo)
 - built full identity systems for the wartner group (logo, pattern, brand book, website, app screens) and mac care (packaging and notices in french, english, and spanish)
-- produced logo revamps for 8 ligue 1 clubs and jersey designs for 4 esports teams
+- produced [logo revamps](https://www.behance.net/gallery/17335269/Sports-Logos) for 8 ligue 1 clubs and [jersey designs](https://www.behance.net/gallery/22813281/Jersey-Design) for 4 esports teams
 
 `brand identity` `logo design` `illustration` `packaging`
 
@@ -118,9 +118,10 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 
 ---
 
+- [[omc]](https://omc.sh/contact) work with me, or [design a product](https://omc.sh/services/product-design) together
 - [[in]](https://www.linkedin.com/in/omcdotsh) boss me on linkedin
 - [[X]](https://x.com/omc_sh) retweet me on x
-- [[be]](https://www.behance.net/OscarDzn) admire my high school arts on behance
+- [[be]](https://www.behance.net/OscarDzn) admire my design work on behance
 
 ---
 
