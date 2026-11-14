@@ -50,9 +50,9 @@
 
 ---
 
-### `2014-now` [omc](https://omc.sh), independent software engineer | _building cool stuff on the internet_
+### `2014-now` [omc](https://omc.sh), independent design & software engineering | _building cool stuff on the internet_
 
-independent practice established in 2014, initially focused on digital design before expanding into full-stack software engineering, developer tooling, and end-to-end product development.
+independent practice established in 2014, starting with brand and identity design before expanding into full-stack software engineering, developer tooling, and end-to-end product development.
 
 **selected engagements**
 
@@ -66,25 +66,33 @@ independent practice established in 2014, initially focused on digital design be
 **`2022` [cosmic exodus](https://cosmicexodus.xyz), fullstack engineer**
 
 - built decentralized exchange interfaces with react, ethers.js, and moralis, integrating blockchain data and smart contracts
-- defined the project's tokenomics, token model, and funding requirements through financial planning, while supporting investor relations and partner outreach during a $70k pre-seed raise
+- developed the project's tokenomics and financial plans supporting a $70k pre-seed raise
 
 `react` `ethers.js` `moralis` `tokenomics`
 
 **`2021-2022` [rainbows](https://blockswan-hq.gitbook.io/rainbows-dao/), fullstack engineer**
 
-- updated and deployed smart contracts on polygon, integrating them with ethers.js to support secure and efficient mvp interactions
+- updated and deployed smart contracts on polygon testnet, integrating them with ethers.js to support secure and efficient mvp interactions
 - built the dapp interface and backend using react, moralis v1, and mongodb, delivering a fully functional mvp for product testing and feedback
 
 `smart contract development` `dapp development` `dao infrastructure` `react` `mongodb` `express` `typescript` `moralis` `wagmi`
 
 **`2021-2022` [blockswan](https://github.com/blockswan/blockswan-protocol), blockchain engineer**
 
-- independently built a decentralized services marketplace prototype using solidity, next.js, express, and mongodb, including design-system components, transaction flows, and database migrations
+- built a decentralized services marketplace prototype using solidity, next.js, express, and mongodb, including design-system components, transaction flows, and database migrations
 - designed, tested, and deployed smart contracts for orders, disputes, juries, and reputation, connecting buyer, seller, and judge workflows
 - integrated usdc payments on polygon, transaction forwarding, social and wallet authentication, and ipfs storage
-- ranked top 3 among 3,388 projects at the [polygon BUIDL IT hackathon](https://devpost.com/software/blockswanfamily), earning a $5k prize and a $5k grant
+- ranked top 3 among 3,388 submissions at the [polygon BUIDL IT hackathon](https://devpost.com/software/blockswanfamily), earning a $5k prize and a $5k grant
 
 `solidity` `next.js` `express` `mongodb` `polygon` `ipfs`
+
+**`2014-2021` oscar design, brand & identity designer**
+
+- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients
+- built full identity systems for the wartner group (logo, pattern, brand book, website, app screens) and mac care (packaging and notices in french, english, and spanish)
+- produced logo revamps for 8 ligue 1 clubs and jersey designs for 4 esports teams
+
+`brand identity` `logo design` `illustration` `packaging`
 
 ---
 
