@@ -86,11 +86,11 @@ independent practice established in 2014, starting with brand and identity desig
 
 `solidity` `next.js` `express` `mongodb` `polygon` `ipfs`
 
-**`2014-2021` oscar design, brand & identity designer**
+**`2014-2021` [oscar design](https://www.behance.net/OscarDzn), brand & identity designer**
 
-- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients
+- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients, from [logo folio 1](https://www.behance.net/gallery/17354603/Logo-Folio-1) and [logo folio 2](https://www.behance.net/gallery/23885671/Logo-Folio-2) to the [nativ gaming mascot](https://www.behance.net/gallery/28669441/Nativ-Gaming-mascot-logo)
 - built full identity systems for the wartner group (logo, pattern, brand book, website, app screens) and mac care (packaging and notices in french, english, and spanish)
-- produced logo revamps for 8 ligue 1 clubs and jersey designs for 4 esports teams
+- produced [logo revamps](https://www.behance.net/gallery/17335269/Sports-Logos) for 8 ligue 1 clubs and [jersey designs](https://www.behance.net/gallery/22813281/Jersey-Design) for 4 esports teams
 
 `brand identity` `logo design` `illustration` `packaging`
 
