@@ -86,7 +86,7 @@ independent practice established in 2014, starting with brand and identity desig
 
 `solidity` `next.js` `express` `mongodb` `polygon` `ipfs`
 
-**`2014-2021` [oscar design](https://www.behance.net/OscarDzn), brand & identity designer**
+**`2014-2021` [oscar design](https://www.behance.net/omcdotsh), brand & identity designer**
 
 - designed 60+ logos and mascots for esports teams, gaming brands, and independent clients, from [logo folio 1](https://www.behance.net/gallery/17354603/Logo-Folio-1) and [logo folio 2](https://www.behance.net/gallery/23885671/Logo-Folio-2) to the [nativ gaming mascot](https://www.behance.net/gallery/28669441/Nativ-Gaming-mascot-logo)
 - built full identity systems for the wartner group (logo, pattern, brand book, website, app screens) and mac care (packaging and notices in french, english, and spanish)
@@ -121,7 +121,7 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 - [[omc]](https://omc.sh/contact) work with me, or [design a product](https://omc.sh/services/product-design) together
 - [[in]](https://www.linkedin.com/in/omcdotsh) boss me on linkedin
 - [[X]](https://x.com/omc_sh) retweet me on x
-- [[be]](https://www.behance.net/OscarDzn) admire my design work on behance
+- [[be]](https://www.behance.net/omcdotsh) admire my design work on behance
 
 ---
 
@@ -130,4 +130,4 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 > "Great things are not done by impulse, but by a series of small things brought together."
 > — **Vincent Van Gogh**
 
-last updated on tue nov 17 2026
+last updated on wed nov 18 2026
