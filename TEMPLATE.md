@@ -90,9 +90,10 @@ in 2014, while in high school, i taught myself photoshop, illustrator, and the a
 
 **`2014-2021` [oscar design](https://www.behance.net/omcdotsh), brand & identity designer**
 
-- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients, from [logo folio 1](https://www.behance.net/gallery/17354603/Logo-Folio-1) and [logo folio 2](https://www.behance.net/gallery/23885671/Logo-Folio-2) to the [nativ gaming mascot](https://www.behance.net/gallery/28669441/Nativ-Gaming-mascot-logo)
+- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients, from [logo folio 1](https://www.behance.net/gallery/17354603/Logo-Folio-1) and [logo folio 2](https://www.behance.net/gallery/23885671/Logo-Folio-2) to the [mascots](https://omc.sh/work/mascots) collection
+- designed [five esports jersey concepts](https://omc.sh/work/jerseys) as textile graphics, from front and back to sleeves and sponsor zones
+- drew the [team vitality](https://omc.sh/work/vitality) title lettering for _les aventures de neo & broken_
 - built full identity systems for the wartner group (logo, pattern, brand book, website, app screens) and mac care (packaging and notices in french, english, and spanish)
-- produced [logo revamps](https://www.behance.net/gallery/17335269/Sports-Logos) for 8 ligue 1 clubs and [jersey designs](https://www.behance.net/gallery/22813281/Jersey-Design) for 4 esports teams
 
 `brand identity` `logo design` `illustration` `packaging`
 
