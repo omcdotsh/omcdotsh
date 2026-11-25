@@ -4,7 +4,7 @@
 
 ---
 
-### `2025-2026` [neutrl](https://neutrl.finance), lead software engineer | _yield-bearing synthetic dollar_ · [case study](https://omc.sh/work/neutrl)
+### `2025-2026` [neutrl](https://neutrl.finance), staff full-stack engineer | _yield-bearing synthetic dollar_ · [case study](https://omc.sh/work/neutrl)
 
 - built neutrl's production application stack from zero: next.js web app, node.js apis, typescript sdks, and blockchain indexers (sentio, then envio), with hasura graphql and postgres, for a protocol that reached $230M peak TVL and about 25,000+ monthly visitors
 - led everything offchain, owning those production systems at scale and the business impact of growth in deposits and usage
