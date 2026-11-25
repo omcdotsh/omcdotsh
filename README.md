@@ -1,6 +1,6 @@
 # gm friend, i'm [oscar](https://omc.sh) 👋
 
-> senior product engineer, full stack.
+> senior product engineer, fullstack.
 
 ---
 
