@@ -4,7 +4,7 @@
 
 ---
 
-### `2025-2026` [neutrl](https://neutrl.finance), staff full-stack engineer | _yield-bearing synthetic dollar_ · [case study](https://omc.sh/work/neutrl)
+### `2025-2026` [neutrl](https://neutrl.finance), staff fullstack engineer | _yield-bearing synthetic dollar_ · [case study](https://omc.sh/work/neutrl)
 
 - built neutrl's production application stack from zero: next.js web app, node.js apis, typescript sdks, and blockchain indexers (sentio, then envio), with hasura graphql and postgres, for a protocol that reached $230M peak TVL and about 25,000+ monthly visitors
 - led everything offchain, owning those production systems at scale and the business impact of growth in deposits and usage
@@ -46,7 +46,7 @@
 
 ### `2023` [pimster](https://pimster.app), fullstack engineer | _post-purchase engagement_ · [case study](https://omc.sh/work/pimster)
 
-- full-stack engineer at a production b2b saas startup, delivering onboarding, content management, and customer engagement features across next.js, graphql, nestjs, and strapi for 14+ customer brands, including mobile product companions with setup guidance, manuals, support, and branded stories
+- fullstack engineer at a production b2b saas startup, delivering onboarding, content management, and customer engagement features across next.js, graphql, nestjs, and strapi for 14+ customer brands, including mobile product companions with setup guidance, manuals, support, and branded stories
 - built internal crm tools so customer brands could publish product minisites themselves, cutting product-minisite preparation from about half a day to under 30 minutes; sales reported the work became about 3 times faster, a concrete business impact
 - delivered database and model migrations with prisma and postgresql, and integrated posthog analytics and sentry monitoring into product features
 
@@ -56,7 +56,7 @@
 
 ### `2014-now` [omc](https://omc.sh/about), software engineer & independent builder | _building cool stuff on the internet_
 
-independent practice that began in 2014 as oscar design, a self-taught design practice, and later grew into full-stack software engineering, developer tooling, and blockchain infrastructure.
+independent practice that began in 2014 as oscar design, a self-taught design practice, and later grew into fullstack software engineering, developer tooling, and blockchain infrastructure.
 
 in 2014, while in high school, i taught myself photoshop, illustrator, and the adobe suite and started oscar design. i sold logos, banners, and web designs to 20+ esports customers, working in english, and designed 60+ logos, mascots, and visual identities for esports, sports, and consumer brands. from there i moved into building software: open-source sdks, product interfaces, and on-chain applications. see the [services](https://omc.sh/services) i offer, or [get in touch](https://omc.sh/contact).
 
