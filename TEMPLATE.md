@@ -20,7 +20,7 @@
 
 ---
 
-### `2024-2025` [morpho](https://morpho.org), product engineer | _lending & borrowing_ · [case study](https://omc.sh/work/morpho)
+### `2024-2025` [morpho](https://morpho.org), frontend engineer | _lending & borrowing_ · [case study](https://omc.sh/work/morpho)
 
 - built production refinance, migrate-earn, and migrate-borrow flows connecting aave, compound, and morpho, using bundler v3 to compose transactions and preview execution outcomes before signing
 - shipped production lending, borrowing, and position-management interfaces, including position dashboards and history, transaction interactions, wallet-based filtering, and expected reward pricing in displayed apy
@@ -39,7 +39,6 @@
 - delivered restaking across eigenlayer and other integrations with one signature, alongside a trading simulator game and shared storybook components
 - reduced frontend bundle size by 40%+ and cumulative layout shift by 25%, measured on the optimization pr
 - delivered the application through the token launch, when traffic reached about 10,000+ monthly visits
-- consumed fyde's api from the frontend with tanstack query, alongside wagmi, viem, and privy for wallet and account-abstraction flows
 
 `typescript` `react` `next.js` `tanstack query` `wagmi` `viem` `privy` `storybook`
 
