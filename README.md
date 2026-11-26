@@ -13,7 +13,7 @@
 - delivered minting, redemption, staking, token locking, instant and cooldown withdrawals, translating smart contracts into complete user flows with wagmi and viem
 - built transaction previews, solidity lens contracts, and typescript sdk multicall batching; portfolio integrations covering 41 external position types
 - built rewards infrastructure spanning points accrual, referrals, reward distribution, and merkle claims, supporting about 6,000 season origin participants (5,659 on ethereum)
-- ran production and staging on railway, with the indexer writing to postgres and hasura reading over private networking, so the graphql apis and data plane stayed reliable in production
+- set up high-availability production and staging on railway with private networking and sentry monitoring, so the graphql apis stayed reliable in production
 - used sentry for production monitoring. tested sdks, backend, and frontend flows with playwright and vitest
 
 `typescript` `react` `next.js` `nodejs` `graphql` `hasura` `postgresql` `envio` `solidity` `sdk` `wagmi` `viem`
@@ -39,6 +39,7 @@
 - delivered restaking across eigenlayer and other integrations with one signature, alongside a trading simulator game and shared storybook components
 - reduced frontend bundle size by 40%+ and cumulative layout shift by 25%, measured on the optimization pr
 - delivered the application through the token launch, when traffic reached about 10,000+ monthly visits
+- consumed fyde's api from the frontend with tanstack query, alongside wagmi, viem, and privy for wallet and account-abstraction flows
 
 `typescript` `react` `next.js` `tanstack query` `wagmi` `viem` `privy` `storybook`
 
@@ -56,9 +57,9 @@
 
 ### `2014-now` [omc](https://omc.sh/about), software engineer & independent builder | _building cool stuff on the internet_
 
-independent practice that began in 2014 as oscar design, a self-taught design practice, and later grew into fullstack software engineering, developer tooling, and blockchain infrastructure.
+independent self-taught design practice that began in 2014, and later grew into fullstack software engineering, developer tooling, and blockchain infrastructure.
 
-in 2014, while in high school, i taught myself photoshop, illustrator, and the adobe suite and started oscar design. i sold logos, banners, and web designs to 20+ esports customers, working in english, and designed 60+ logos, mascots, and visual identities for esports, sports, and consumer brands. from there i moved into building software: open-source sdks, product interfaces, and on-chain applications. see the [services](https://omc.sh/services) i offer, or [get in touch](https://omc.sh/contact).
+in 2014, while in high school, i taught myself photoshop, illustrator, and the adobe suite. i sold logos, banners, and web designs to 20+ esports customers, working in english, and designed 20 logos and 25 mascots for esports teams and studios. from there i moved into building software: open-source sdks, product interfaces, and on-chain applications. see the [services](https://omc.sh/services) i offer, or [get in touch](https://omc.sh/contact).
 
 **selected engagements**
 
@@ -90,12 +91,10 @@ in 2014, while in high school, i taught myself photoshop, illustrator, and the a
 
 **`2014-2021` [oscar design](https://www.behance.net/omcdotsh), brand & identity designer**
 
-- designed 60+ logos and mascots for esports teams, gaming brands, and independent clients, from [logo folio 1](https://www.behance.net/gallery/17354603/Logo-Folio-1) and [logo folio 2](https://www.behance.net/gallery/23885671/Logo-Folio-2) to the [mascots](https://omc.sh/work/mascots) collection
-- designed [five esports jersey concepts](https://omc.sh/work/jerseys) as textile graphics, from front and back to sleeves and sponsor zones
-- drew the [team vitality](https://omc.sh/work/vitality) title lettering for _les aventures de neo & broken_
-- built full identity systems for the wartner group (logo, pattern, brand book, website, app screens) and mac care (packaging and notices in french, english, and spanish)
+- took esports teams from a blank mark to a kit they could wear and post: 20 [logos](https://www.behance.net/gallery/17354603/Logos) for teams and studios, 25 [mascots](https://www.behance.net/gallery/17335269/Mascots) built to work as a character and a wordmark, and [jerseys](https://www.behance.net/gallery/22813281/Jerseys-Apparel) drawn as textile graphics across front, back, sleeves, and sponsor zones
+- shipped the graphics around the identity: [banners and stream overlays](https://www.behance.net/gallery/17270929/Banners-Stream) for twitter, youtube, and twitch, and [illustration and lettering](https://www.behance.net/gallery/21497405/Illustration-Lettering), including the title lettering for team vitality
 
-`brand identity` `logo design` `illustration` `packaging`
+`brand identity` `logo design` `mascot` `illustration` `apparel`
 
 ---
 
@@ -133,4 +132,4 @@ i craft bugs with equal mastery across the frontend and the blockchain/backend, 
 > "Great things are not done by impulse, but by a series of small things brought together."
 > — **Vincent Van Gogh**
 
-last updated on wed nov 25 2026
+last updated on thu nov 26 2026
